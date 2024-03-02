@@ -1,1 +1,3 @@
 # MyTradingBot
+
+nie ogarniam gita
