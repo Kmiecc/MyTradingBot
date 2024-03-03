@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VeaJXKKo/5TaRUn9R38MMrKkUKRB0ixTk+g/eOBTIupNW6G505FZYyIZzjrNsfOzBCwlF2VWSrtsr5p42vWQjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kmiec\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\Kmiec\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Kmiec\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
