@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TradingBot", "ConsoleApp1\TradingBot.csproj", "{4A18183C-28D8-4B46-92ED-BC007EC72C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAPIConnect", "SyncAPIConnector\SyncAPIConnect.csproj", "{E6BC484B-A042-4CA6-9079-E91136D92207}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4A18183C-28D8-4B46-92ED-BC007EC72C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A18183C-28D8-4B46-92ED-BC007EC72C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A18183C-28D8-4B46-92ED-BC007EC72C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6BC484B-A042-4CA6-9079-E91136D92207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6BC484B-A042-4CA6-9079-E91136D92207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6BC484B-A042-4CA6-9079-E91136D92207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6BC484B-A042-4CA6-9079-E91136D92207}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
