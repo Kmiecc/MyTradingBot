@@ -1,0 +1,33 @@
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\bin\Debug\xAPI.dll
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\bin\Debug\xAPI.pdb
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\obj\Debug\xAPI.dll
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\obj\Debug\xAPI.pdb
+C:\Users\mkuc\workspace\dotNET\dotNETDev\SyncAPIConnector\obj\Debug\SyncAPIConnect.csprojResolveAssemblyReference.cache
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\xAPI.dll
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\xAPI.pdb
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\obj\Debug\SyncAPIConnect.csprojResolveAssemblyReference.cache
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\obj\Debug\xAPI.dll
+C:\Users\Cichy\Desktop\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\obj\Debug\xAPI.pdb
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\xAPI.dll
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\xAPI.pdb
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.dll
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\obj\Debug\xAPI.dll
+C:\Wrappery\Wrapper .Net detaliczny\xAPI_dotNET_wrapper_v2.5.0\src\SyncAPIConnector\obj\Debug\xAPI.pdb
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\bin\Debug\xAPI.dll
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\bin\Debug\xAPI.pdb
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\obj\Debug\SyncAPIConnect.csproj.AssemblyReference.cache
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\obj\Debug\SyncAPIConnect.csproj.CoreCompileInputs.cache
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\obj\Debug\SyncAPIConnect.csproj.CopyComplete
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\obj\Debug\xAPI.dll
+C:\Users\Kmiec\Desktop\xAPI25-XTB-net\src\SyncAPIConnector\obj\Debug\xAPI.pdb
