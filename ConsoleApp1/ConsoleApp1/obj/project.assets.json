@@ -112,9 +112,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\TradingBot.csproj",
+      "projectName": "TradingBot",
+      "projectPath": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\TradingBot.csproj",
       "packagesPath": "C:\\Users\\Kmiec\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kmiec\\Desktop\\tradingBpt4\\MyTradingBot\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
